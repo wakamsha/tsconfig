@@ -8,7 +8,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/wakamsha/tsconfig-wakamsha.git"
+    "url": "https://github.com/wakamsha/tsconfig.git"
   },
   "publishConfig": {
     "access": "public"
@@ -16,9 +16,9 @@
   "author": "wakamsha <wakamsha@gmail.com> (https://twitter.com/wakamsha)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wakamsha/tsconfig-wakamsha/issues"
+    "url": "https://github.com/wakamsha/tsconfig/issues"
   },
-  "homepage": "https://github.com/wakamsha/tsconfig-wakamsha#readme",
+  "homepage": "https://github.com/wakamsha/tsconfig#readme",
   "devDependencies": {
     "@semantic-release/changelog": "6.0.3",
     "@semantic-release/git": "10.0.1",
