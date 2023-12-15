@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+ssh://git@github.com/wakamsha/tsconfig-wakamsha.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "wakamsha <wakamsha@gmail.com> (https://twitter.com/wakamsha)",
   "license": "MIT",
   "bugs": {
