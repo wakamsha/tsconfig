@@ -19,7 +19,7 @@ module.exports = {
         message: "chore: release ${nextRelease.gitTag}\n\n[skip ci]",
       },
     ],
-    // "@semantic-release/github",
     "@semantic-release/npm",
+    "@semantic-release/github",
   ],
 };
