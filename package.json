@@ -1,6 +1,6 @@
 {
   "name": "@wakamsha/tsconfig",
-  "version": "0.0.0-dev",
+  "version": "0.0.0-development",
   "description": "wakamsha's generic tsconfig.",
   "keywords": [
     "typescript",
@@ -8,7 +8,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/wakamsha/tsconfig-wakamsha.git"
+    "url": "https://github.com/wakamsha/tsconfig-wakamsha.git"
   },
   "publishConfig": {
     "access": "public"
