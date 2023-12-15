@@ -1,3 +1,10 @@
+## [1.6.1](https://github.com/wakamsha/tsconfig/compare/v1.6.0...v1.6.1) (2023-12-15)
+
+
+### Bug Fixes
+
+* version ([12f761b](https://github.com/wakamsha/tsconfig/commit/12f761b9ca105df9fd966d2b5c407f84e969dc4e))
+
 # [1.6.0](https://github.com/wakamsha/tsconfig/compare/v1.5.0...v1.6.0) (2023-12-15)
 
 
