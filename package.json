@@ -1,0 +1,19 @@
+{
+  "name": "@wakamsha/tsconfig",
+  "version": "1.0.0",
+  "description": "wakamsha's generic tsconfig.",
+  "keywords": [
+    "typescript",
+    "tsconfig"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wakamsha/tsconfig-wakamsha.git"
+  },
+  "author": "wakamsha <wakamsha@gmail.com> (https://twitter.com/wakamsha)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wakamsha/tsconfig-wakamsha/issues"
+  },
+  "homepage": "https://github.com/wakamsha/tsconfig-wakamsha#readme"
+}
