@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/wakamsha/tsconfig/compare/v1.2.0...v1.3.0) (2023-12-15)
+
+
+### Features
+
+* Update tsconfig ([#10](https://github.com/wakamsha/tsconfig/issues/10)) ([18e913c](https://github.com/wakamsha/tsconfig/commit/18e913c5beb5ecdd361ee744a1102bff171e244b))
+
 # [1.2.0](https://github.com/wakamsha/tsconfig/compare/v1.1.0...v1.2.0) (2023-12-15)
 
 
